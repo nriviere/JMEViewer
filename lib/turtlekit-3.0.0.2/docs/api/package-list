@@ -1,0 +1,9 @@
+turtlekit.agr
+turtlekit.cuda
+turtlekit.cuda.kernels
+turtlekit.gui
+turtlekit.gui.menu
+turtlekit.gui.toolbar
+turtlekit.kernel
+turtlekit.pheromone
+turtlekit.viewer
